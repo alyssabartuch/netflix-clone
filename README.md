@@ -1,3 +1,5 @@
+Interactive Netflix clone app build with React utilizing hooks. react-youtube is a simple React component acting as a thin layer over the YouTube IFrame Player API, and movie-trailers-api returns youtube trailers for requested titles.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
